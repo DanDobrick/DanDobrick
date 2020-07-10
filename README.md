@@ -1,4 +1,5 @@
-### Hi there 👋
+# Dan Dobrick
+👋 I'm Dan Dobrick: a backend engineer who mostly works in Ruby.
 
 ## TIL
 This is a place for me to put some things that I learned recently. Such as the `num_nonnull` function in postgres (stay tuned for more information on that!)
