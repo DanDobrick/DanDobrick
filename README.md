@@ -1,6 +1,6 @@
 # Dan Dobrick
 
-## General Info About Me
+## General Info
 - Pronouns: He/Him
 - Location: Denver
 
