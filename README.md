@@ -3,7 +3,7 @@ I'm Dan Dobrick: a backend engineer who mainly works in Ruby.
 
 ## TIL
 A place to put writeups for things I recently learned!
-- [PostgreSQL `num_nulls` and `num_nonnulls` functions](til/postgres_null_functions.md) - 2020-07-10
+- [PostgreSQL `num_nulls` and `num_nonnulls` functions](https://github.com/DanDobrick/DanDobrick/blob/master/til/postgres_null_functions.md) - 2020-07-10
 
 <!--
 Here are some ideas to get you started:
