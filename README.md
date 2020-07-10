@@ -1,12 +1,11 @@
 # Dan Dobrick
-👋 I'm Dan Dobrick: a backend engineer who mostly works in Ruby.
+I'm Dan Dobrick: a backend engineer who mainly works in Ruby.
 
 ## TIL
-This is a place for me to put some things that I learned recently. Such as the `num_nonnull` function in postgres (stay tuned for more information on that!)
+A place to put writeups for things I recently learned!
+- [PostgreSQL `num_nulls` and `num_nonnulls` functions](til/postgres_null_functions.md) - 2020-07-10
 
 <!--
-**DanDobrick/DanDobrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
