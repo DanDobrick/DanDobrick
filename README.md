@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## TIL
+This is a place for me to put some things that I learned recently. Such as the `num_nonnull` function in postgres (stay tuned for more information on that!)
+
 <!--
 **DanDobrick/DanDobrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
