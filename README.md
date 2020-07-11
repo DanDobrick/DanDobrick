@@ -9,6 +9,7 @@
 - [Learning everything I can](#til)
 
 ### What I'm Working on Personally
+- 🧪 Setting up a blog using Jekyll.
 - 💩 Hiding the code for my personal projects because it's _not good_.
 - 🎲 Playing boardgames.
 - ⚾️ Watching the Phillies lose baseball games.
