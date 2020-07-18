@@ -3,5 +3,3 @@
 source "https://rubygems.org"
 
 gem 'feedparser'
-
-gem 'pry'

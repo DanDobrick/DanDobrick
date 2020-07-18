@@ -20,10 +20,8 @@
 - [LinkedIn](https://www.linkedin.com/in/dandobrick/)
 - [me@dandobrick.com](mailto:me@dandobrick.com)
 
-## Blog Posts
-Recent posts on [my blog](https://dandobrick.com/blog); mostly things that I've learned recently.
-
-Eventually this will be [auto-generated](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
+## Latest Blog Posts
+Most recent 5 posts on [my blog](https://dandobrick.com/blog); mostly things that I've learned recently.
 
 <!-- blog starts -->
 - [`ActiveRecord.dup` and `constantize`](http://dandobrick.com/blog/posts/til-small-things/) - 07-17-2020

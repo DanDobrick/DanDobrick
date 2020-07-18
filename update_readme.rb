@@ -1,4 +1,3 @@
-require 'pry'
 require 'feedparser'
 
 RSS_URL = "https://dandobrick.com/blog/feed.xml"
