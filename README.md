@@ -1,11 +1,14 @@
 # Dan Dobrick
 
+- [General Info](#general-info)
+- [Latest Blog Posts](#latest-blog-posts)
+
 ## General Info
 - Pronouns: He/Him
 - Location: Denver
 
 ### What I'm Working on Personally
-- 📝 [Various](https://github.com/DanDobrick/dotfiles) scripts to my life a [wee bit](https://github.com/DanDobrick/blog/blob/master/draft_scripts.thor) easier.
+- 📝 [Various](https://github.com/DanDobrick/dotfiles) scripts to make my life a [wee bit](https://github.com/DanDobrick/blog/blob/master/draft_scripts.thor) easier.
 - 🎲 Playing boardgames.
 - ⚾️ Watching the Phillies lose baseball games.
 - 🦄 Playing D&D.
