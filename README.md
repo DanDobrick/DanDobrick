@@ -27,7 +27,7 @@
 Most recent 5 posts on [my blog](https://dandobrick.com/blog); mostly things that I've learned recently.
 
 <!-- blog starts -->
-- [`ufw` - Linux Firewall And How To Use It](http://dandobrick.com/blog/posts/ufw-linux-firewall-and-how-to-use-it/) - 07-24-2020
+- [`ufw` - Linux Firewall And How To Use It](http://dandobrick.com/blog/posts/ufw-linux-firewall-and-how-to-use-it/) - 08-02-2020
 - [`ActiveRecord.dup` and `constantize`](http://dandobrick.com/blog/posts/til-small-things/) - 07-17-2020
 - [Some stuff about Active Record](http://dandobrick.com/blog/posts/active-record-remove-column/) - 07-13-2020
 - [Things I Forget When Creating New Characters in Gloomhaven](http://dandobrick.com/blog/posts/gloomhaven-new-character/) - 07-11-2020
