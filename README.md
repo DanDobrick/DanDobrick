@@ -28,7 +28,7 @@
 Most recent 5 posts on [my blog](https://dandobrick.com/blog); mostly things that I've learned recently.
 
 <!-- blog starts -->
-- [Using NOT in Postgres CHECK constraints](http://dandobrick.com/blog/posts/using-not-in-postgres-check-constraints/) - 04-16-2021
+- [Using `NOT` in Postgres `CHECK` constraints](http://dandobrick.com/blog/posts/using-not-in-postgres-check-constraints/) - 04-16-2021
 - [Ruby’s Partition Method: It Does What You Think.](http://dandobrick.com/blog/posts/ruby-partitions/) - 10-03-2020
 - [Cancelling PostgreSQL Queries When HTTP Request Times Out](http://dandobrick.com/blog/posts/cancelling-postgresql-queries/) - 08-04-2020
 - [`ufw` - Linux Firewall And How To Use It](http://dandobrick.com/blog/posts/ufw-linux-firewall-and-how-to-use-it/) - 08-02-2020
