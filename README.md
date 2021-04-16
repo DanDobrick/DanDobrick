@@ -5,16 +5,17 @@
 
 ## General Info
 - Pronouns: He/Him
-- Location: Denver
+- Location: Boulder
 
 ### What I'm Working on Personally
 - 📝 [Various](https://github.com/DanDobrick/dotfiles) scripts to make my life a [wee bit](https://github.com/DanDobrick/blog/blob/master/draft_scripts.thor) easier.
 - 🎲 Playing boardgames.
 - ⚾️ Watching the Phillies lose baseball games.
-- 🦄 Playing D&D.
+- ⛰️ Exploring Nature.
 
 ### What I Work on Professionally
 - Mostly Ruby/Rails.
+- PostgreSQl.
 - [Learning everything I can](https://dandobrick.com/blog)
 
 ### Let's talk!
