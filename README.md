@@ -14,9 +14,11 @@
 - ⛰️ Exploring Nature.
 
 ### What I Work on Professionally
-- Mostly Ruby/Rails.
-- PostgreSQl.
-- [Learning everything I can](https://dandobrick.com/blog)
+- Ruby/Rails
+- Node and React, specifically in the context of Next.js
+- PostgreSQL
+- AWS
+- [Learning everything I can.](https://dandobrick.com/blog)
 
 ### Let's talk!
 - [Website](https://dandobrick.com)
@@ -25,7 +27,7 @@
 - [me@dandobrick.com](mailto:me@dandobrick.com)
 
 ## Latest Blog Posts
-Most recent 5 posts on [my blog](https://dandobrick.com/blog); mostly things that I've learned recently.
+Most recent 5 posts on [my blog](https://dandobrick.com/blog): VERY occasional posts about things I've learned.
 
 <!-- blog starts -->
 - [Using `NOT` in Postgres `CHECK` constraints](http://dandobrick.com/blog/posts/using-not-in-postgres-check-constraints/) - 04-16-2021
