@@ -10,8 +10,8 @@
 ### What I'm Working on Personally
 - [🧗‍♂️ Climbing rocks.](https://www.mountainproject.com/user/201108776/dan-d)
 - [🎲 Playing boardgames.](https://boardgamegeek.com/user/Slimy%20Hog)
-- ⚾️ Watching the Phillies lose baseball games.
 - [⛰️ Exploring Nature.](https://www.alltrails.com/members/dan-d-55)
+- ⚾️ Watching the Phillies lose baseball games.
 
 ### What I Work on Professionally
 - Ruby/Rails
