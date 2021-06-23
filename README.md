@@ -8,10 +8,10 @@
 - Location: Boulder
 
 ### What I'm Working on Personally
-- 🧗‍♂️ Climbing rocks.
-- 🎲 Playing boardgames.
+- [🧗‍♂️ Climbing rocks.](https://www.mountainproject.com/user/201108776/dan-d)
+- [🎲 Playing boardgames.](https://boardgamegeek.com/user/Slimy%20Hog)
 - ⚾️ Watching the Phillies lose baseball games.
-- ⛰️ Exploring Nature.
+- [⛰️ Exploring Nature.](https://www.alltrails.com/members/dan-d-55)
 
 ### What I Work on Professionally
 - Ruby/Rails
