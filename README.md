@@ -8,7 +8,7 @@
 - Location: Boulder
 
 ### What I'm Working on Personally
-- 📝 [Various](https://github.com/DanDobrick/dotfiles) scripts to make my life a [wee bit](https://github.com/DanDobrick/blog/blob/master/draft_scripts.thor) easier.
+- 🧗‍♂️ Climbing rocks.
 - 🎲 Playing boardgames.
 - ⚾️ Watching the Phillies lose baseball games.
 - ⛰️ Exploring Nature.
@@ -18,6 +18,7 @@
 - Node and React, specifically in the context of Next.js
 - PostgreSQL
 - AWS
+- K8s
 - [Learning everything I can.](https://dandobrick.com/blog)
 
 ### Let's talk!
