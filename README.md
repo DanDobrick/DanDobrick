@@ -9,16 +9,16 @@
 
 ### What I'm Working on Personally
 - [🧗‍♂️ Climbing rocks.](https://www.mountainproject.com/user/201108776/dan-d)
-- [🎲 Playing boardgames.](https://boardgamegeek.com/user/Slimy%20Hog)
+- [🎲 Playing boardgames.](http://unexplored.games/)
 - [⛰️ Exploring Nature.](https://www.alltrails.com/members/dan-d-55)
 - ⚾️ Watching the Phillies lose baseball games.
 
 ### What I Work on Professionally
 - Ruby/Rails
-- Node and React, specifically in the context of Next.js
 - PostgreSQL
 - AWS
 - K8s
+- Node and React, specifically in the context of Next.js
 - [Learning everything I can.](https://dandobrick.com/blog)
 
 ### Let's talk!
