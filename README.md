@@ -6,7 +6,6 @@
 
 ## What I'm Working on Personally
 - [🧗‍♂️ Climbing rocks.](https://www.mountainproject.com/user/201108776/dan-d)
-- [🎲 Playing boardgames.](https://unexplored.games/)
 - [⛰️ Exploring Nature.](https://www.alltrails.com/members/dan-d-55)
 - ⚾️ Watching the Phillies lose baseball games.
 
