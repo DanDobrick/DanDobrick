@@ -1,19 +1,16 @@
 # Dan Dobrick
 
-- [General Info](#general-info)
-- [Latest Blog Posts](#latest-blog-posts)
-
 ## General Info
 - Pronouns: He/Him
 - Location: Boulder
 
-### What I'm Working on Personally
+## What I'm Working on Personally
 - [🧗‍♂️ Climbing rocks.](https://www.mountainproject.com/user/201108776/dan-d)
 - [🎲 Playing boardgames.](https://unexplored.games/)
 - [⛰️ Exploring Nature.](https://www.alltrails.com/members/dan-d-55)
 - ⚾️ Watching the Phillies lose baseball games.
 
-### What I Work on Professionally
+## What I Work on Professionally
 - Ruby/Rails
 - PostgreSQL
 - AWS
@@ -21,7 +18,7 @@
 - Node and React, specifically in the context of Next.js
 - [Learning everything I can.](https://dandobrick.com/blog)
 
-### Let's talk!
+## Let's talk!
 - [Website](https://dandobrick.com)
 - [Blog](https://dandobrick.com/blog)
 - [LinkedIn](https://www.linkedin.com/in/dandobrick/)
