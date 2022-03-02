@@ -20,7 +20,7 @@
 ## Let's talk!
 - [Website](https://dandobrick.com)
 - [Blog](https://dandobrick.com/blog)
-- [LinkedIn](https://www.linkedin.com/in/dandobrick/)
+- [Resume](https://resume.creddle.io/resume/j2xo6w2puax)
 - [me@dandobrick.com](mailto:me@dandobrick.com)
 
 ## Latest Blog Posts
