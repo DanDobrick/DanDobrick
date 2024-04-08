@@ -27,9 +27,9 @@
 Most recent 5 posts on [my blog](https://dandobrick.com/blog): VERY occasional posts about things I've learned.
 
 <!-- blog starts -->
+- [ActiveRecord `take` vs `first`](http://dandobrick.com/blog/posts/ruby's-take-vs-first/) - 04-08-2024
+- [Numbered Block Params In Ruby](http://dandobrick.com/blog/posts/numbered-block-params-in-ruby/) - 02-28-2024
 - [Using `NOT` in Postgres `CHECK` constraints](http://dandobrick.com/blog/posts/using-not-in-postgres-check-constraints/) - 04-16-2021
 - [Ruby’s Partition Method: It Does What You Think.](http://dandobrick.com/blog/posts/ruby-partitions/) - 10-03-2020
 - [Cancelling PostgreSQL Queries When HTTP Request Times Out](http://dandobrick.com/blog/posts/cancelling-postgresql-queries/) - 08-04-2020
-- [`ufw` - Linux Firewall And How To Use It](http://dandobrick.com/blog/posts/ufw-linux-firewall-and-how-to-use-it/) - 08-02-2020
-- [`ActiveRecord.dup` and `constantize`](http://dandobrick.com/blog/posts/til-small-things/) - 07-17-2020
 <!-- blog ends -->
