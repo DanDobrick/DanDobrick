@@ -2,11 +2,11 @@
 
 ## General Info
 - Pronouns: He/Him
-- Location: Boulder
+- Location: Boulder, Colorado
 
 ## What I'm Working on Personally
 - [🧗‍♂️ Climbing rocks.](https://www.mountainproject.com/user/201108776/dan-d)
-- [⛰️ Exploring Nature.](https://www.alltrails.com/members/dan-d-55)
+- [Learning Things.](https://dandobrick.com/blog)
 - ⚾️ Watching the Phillies lose baseball games.
 
 ## What I Work on Professionally
@@ -14,17 +14,15 @@
 - PostgreSQL
 - AWS
 - K8s
-- Node and React, specifically in the context of Next.js
-- [Learning everything I can.](https://dandobrick.com/blog)
+- Node and React, though a lot less than in the past
 
 ## Let's talk!
 - [Website](https://dandobrick.com)
 - [Blog](https://dandobrick.com/blog)
 - [Resume](https://dandobrick.com/assets/Dan_Dobrick_resume_2023.pdf)
-- [me@dandobrick.com](mailto:me@dandobrick.com)
 
 ## Latest Blog Posts
-Most recent 5 posts on [my blog](https://dandobrick.com/blog): VERY occasional posts about things I've learned.
+Most recent 5 posts on [my blog](https://dandobrick.com/blog): very infrequent posts about things I've learned.
 
 <!-- blog starts -->
 - [ActiveRecord `take` vs `first`](http://dandobrick.com/blog/posts/ruby's-take-vs-first/) - 04-08-2024
