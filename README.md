@@ -7,7 +7,7 @@
 ## What I'm Working on Personally
 - [🧗‍♂️ Climbing rocks.](https://www.mountainproject.com/user/201108776/dan-d)
 - [🧠 Learning Things.](https://dandobrick.com/blog)
-- ⚾️ Watching the Phillies lose baseball games.
+- ⚾️ Watching the Phillies ~lose~ win baseball games.
 
 ## What I Work on Professionally
 - Ruby/Rails
