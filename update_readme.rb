@@ -1,17 +1,18 @@
 require 'feedparser'
+require 'open-uri'
 
 RSS_URL = "https://dandobrick.com/blog/feed.xml"
 
 def posts_as_markdown(posts_to_list)
-  posts_mardown = posts_to_list.map do |post|
+  posts_markdown = posts_to_list.map do |post|
     formatted_time = post.published.strftime("%m-%d-%Y")
     "- [#{post.title}](#{post.url}) - #{formatted_time}"
   end
-  posts_mardown.join("\n")
+  posts_markdown.join("\n")
 end
 
 # Get posts from feed, grab the latest 5 and turn them into a markdown list
-feed = open(RSS_URL).read
+feed = URI.open(RSS_URL).read
 parsed_feed = FeedParser::Parser.parse(feed)
 sorted_posts = parsed_feed.items.sort_by(&:published).reverse
 post_list = posts_as_markdown(sorted_posts[0..4])
