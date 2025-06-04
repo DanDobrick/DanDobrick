@@ -27,6 +27,9 @@ GEM
     mutex_m (0.2.0)
     props (1.2.0)
       iniparser (>= 0.1.0)
+    rexml (3.4.1)
+    rss (0.3.1)
+      rexml
     rubyzip (2.3.2)
     textutils (1.4.0)
       activesupport
@@ -41,6 +44,7 @@ PLATFORMS
 
 DEPENDENCIES
   feedparser
+  rss
 
 BUNDLED WITH
    2.1.4
