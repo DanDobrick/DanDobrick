@@ -20,7 +20,7 @@
 - [Resume](https://dandobrick.com/assets/Dan_Dobrick_resume_2023.pdf)
 
 ## Latest Blog Posts
-Most recent 5 posts on [my blog](https://dandobrick.com/blog): very infrequent posts about things I've learned.
+Most recent 5 posts on [my blog](https://dandobrick.com/blog): very infrequent posts about things I'm doing or interested in.
 
 <!-- blog starts -->
 - [I made this bench; I’m proud of it](http://dandobrick.com/blog/posts/i-made-this-bench-i'm-proud-of-it/) - 06-02-2025
