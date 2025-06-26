@@ -5,7 +5,7 @@
 - Location: Boulder, Colorado
 
 ## What I'm Working on Personally
-- [🎲Running an online board game store (With Free Shipping!).](https://www.unexplored-games.com)
+- [🎲 Running an online board game store (With Free Shipping!).](https://www.unexplored-games.com)
 - [🧗‍♂️ Climbing rocks.](https://www.mountainproject.com/user/201108776/dan-d)
 - [🧠 Learning Things.](https://dandobrick.com/blog)
 - ⚾️ Watching the Phillies ~lose~ win baseball games.
