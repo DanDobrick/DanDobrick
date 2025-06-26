@@ -2,7 +2,7 @@
 
 ## General Info
 - Pronouns: He/Him
-- Location: Boulder, Colorado
+- Location: Longmont, Colorado
 
 ## What I'm Working on Personally
 - [🎲 Running an online board game store (With Free Shipping!).](https://www.unexplored-games.com)
