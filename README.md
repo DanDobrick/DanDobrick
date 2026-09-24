@@ -5,10 +5,10 @@
 - Location: Longmont, Colorado
 
 ## What I'm Working on Personally
-- [🎲 Running an online board game store (With Free Shipping!).](https://www.unexplored-games.com)
-- [🧗‍♂️ Climbing rocks.](https://www.mountainproject.com/user/201108776/dan-d)
+- 🇯🇵 Learning Japanese
 - [🧠 Learning Things.](https://dandobrick.com/blog)
 - ⚾️ Watching the Phillies ~lose~ win baseball games.
+- [🧗‍♂️ Climbing rocks.](https://www.mountainproject.com/user/201108776/dan-d)
 
 ## What I Work on Professionally
 - Ruby/Rails
